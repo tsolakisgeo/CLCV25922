@@ -1,20 +1,21 @@
 html {
-    font-size: 22px;
-    
+    font-size: 18px;
+    color: black
 }
 
 body {
-    background-color: black;
-    color: whitesmoke;
+    font-size: 20px;
+    background-color: whitesmoke;
+    color: black;
 }
 
 
 h1 {
-    color: #ff7f50;
+    color: green;
 }
 
 a:visited {
-    color: aqua;
+    color: blue;
 }
 
 .gradient-text {
@@ -28,5 +29,5 @@ a:visited {
 }
 
 figcaption {
-    color: red;
+    color: black;
 }
