@@ -1,0 +1,1 @@
+There are only a finite amouont of rows and columns in MS Excel, stopping at 1,048,576 (20^20) and XFD respectively.  
