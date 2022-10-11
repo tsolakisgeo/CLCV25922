@@ -1,0 +1,483 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "aa0e8fff",
+   "metadata": {},
+   "source": [
+    "#### Open and read the file `Hawking-Questioning-the-Universe.txt`."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b90bb97e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "47cbdd3f",
+   "metadata": {},
+   "source": [
+    "#### Print the first 50 characters."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "47076f41",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ea983c9d",
+   "metadata": {},
+   "source": [
+    "#### Print from the 52nd to the 163rd character."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "269fa327",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "87597c50",
+   "metadata": {},
+   "source": [
+    "---"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ade631c5",
+   "metadata": {},
+   "source": [
+    "#### Open the file `Hawking-Questioning-the-Universe.txt` and create a list named `text_as_list` where every word is an element of the list. \n",
+    "\n",
+    "Hint: there are two ways to do it. Either with `.readlines()` or with `.split()`. I encourage you to google how both work, but I suggest to adopt the latter.\n",
+    "\n",
+    "Hint: if you want to split the text so every word is an element of a list, what should be the parameter of the `split()` method? Read more [here](https://www.w3schools.com/python/ref_string_split.asp)."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f5bbb61c",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e810560f",
+   "metadata": {},
+   "source": [
+    "#### This code will remove the punctuation from your list and applies the lower() method that returns a string where all characters are lower case. Simple run the cell."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "3fc5de89",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import string\n",
+    "text_as_list = [i.translate(str.maketrans('', '', string.punctuation)).lower() for i in text_as_list]"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "555565af",
+   "metadata": {},
+   "source": [
+    "#### Create a new list `words_begin_with_a` and append all words of the `text_as_list` that begin with a small _a_.\n",
+    "\n",
+    "Hint: you have to define first an empty list.\n",
+    "\n",
+    "Hint: in order to find if a string starts with one or more letters, you should use the method `.startswith()`. Read more [here](https://www.w3schools.com/python/ref_string_startswith.asp)."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ef97035e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "d3062e30",
+   "metadata": {},
+   "source": [
+    "Answer: 310"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "015adc25",
+   "metadata": {},
+   "source": [
+    "#### Create a counter and use a while loop to counter how many words starts with a _u_."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "f87dba32",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "i = 0\n",
+    "counter = 0\n",
+    "\n",
+    "while i<len(text_as_list):\n",
+    "    if text_as_list[i].startswith('u'):\n",
+    "        ###### add your code here\n",
+    "    i += 1\n",
+    "print(counter)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "032371cb",
+   "metadata": {},
+   "source": [
+    "Answer: 30"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "57461070",
+   "metadata": {},
+   "source": [
+    "#### Create a counter and use a while loop to counter how many words do NOT start with a _u_."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2bfcc6d7",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "47e0008d",
+   "metadata": {},
+   "source": [
+    "Answer: 877"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "52679f74",
+   "metadata": {},
+   "source": [
+    "#### Write an if statement that checkes if the word \"universe\" appears in the text. Feel free to google how we test if a word is _in_ a Python list."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "38e92923",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "00f3acdf",
+   "metadata": {},
+   "source": [
+    "#### Write an if statement that checkes if the word \"alliens\" appears in the text. If not print \"the word does not appear\""
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "03093ef3",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0d5f2002",
+   "metadata": {},
+   "source": [
+    "#### Write an if statement that checkes if the word \"alliens\" appears in the text. If not, check if the word \"International Space Station\" appears in the text. If neither is in the text, print \"I didn't find the words\"."
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c01d9304",
+   "metadata": {},
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5b8b465d",
+   "metadata": {},
+   "source": [
+    "#### Take the text_as_list and create a dictionary named `mydictionary`. The words of the text should be the keys of the dictionary and the index of the word the values of the keys.\n",
+    "\n",
+    "Hint: there is a method in Python that adds a counter to an iterable."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c2ca15dd",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8faf3c45",
+   "metadata": {},
+   "source": [
+    "#### Create the same dictonary but now index of  words in the text should be the dictionary's keys and the words should be the key's values."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9d54fada",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "8e48403e",
+   "metadata": {},
+   "source": [
+    "#### Why the lenghts of the two dictionaries are not the same?"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e4473cd2",
+   "metadata": {},
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "c902a269",
+   "metadata": {},
+   "source": [
+    "#### Create a dictionary `dict_counter` that takes as keys the words of text_as_list. The values of each key should be the number that each words is attested in the list.\n",
+    "\n",
+    "Hint: Check the [`count()` method](https://www.w3schools.com/python/ref_list_count.asp)."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c0c7eb56",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "dbfd1b28",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print(mydictionary)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "a3baa175",
+   "metadata": {},
+   "source": [
+    "#### Without printing the whole dictionary, find how many times the word \"question\" appears in the list by using your new dictiornary"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a7e6a088",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "0bf6c425",
+   "metadata": {},
+   "source": [
+    "#### Create a pandas dataframe from the items of the dictionary"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b642dabd",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "cf243050",
+   "metadata": {},
+   "source": [
+    "#### Get the first row of your dataframe"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "595fb43a",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "6404c70e",
+   "metadata": {},
+   "source": [
+    "#### Get the first column of your dataframe"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "05d6c34f",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "e54d289e",
+   "metadata": {},
+   "source": [
+    "#### By using the `pandas.DataFrame.loc`, find how many times the words galaxies and galaxies appear in the dataframe"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "20833ca3",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "markdown",
+   "id": "fc9540e5",
+   "metadata": {},
+   "source": [
+    "#### Write a recursion in a function that prints 5! (i.e., the factorial of 5)."
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "76832032",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def fact(n):\n",
+    "    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "80ed0772",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "print(fact(n))"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "814d4090",
+   "metadata": {},
+   "source": [
+    "#### Write a recursion in a function that prints the $n^{th}$ [Fibonacci number](https://en.wikipedia.org/wiki/Fibonacci_number):\n",
+    "\n",
+    "1, 1, 2, 3, 5, 8, 13, 21, 34"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c2100ad9",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "def fib(n):\n",
+    "    "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "be45e165",
+   "metadata": {},
+   "source": [
+    "#### Which is the $20^{th}$ Fibonacci number?"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "b7b9e432",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "fib(20)"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "78def8f1",
+   "metadata": {},
+   "source": [
+    "_We will try together tail recursion._"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.9.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
