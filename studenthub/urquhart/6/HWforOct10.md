@@ -1,0 +1,4 @@
+While using Excel holds many benefits—it's easily accessible and simple to use—the videos provide some context as to when Excel falls short.
+Excel's auto-correct is helpful for a random person making a typo, but its standardization across platforms means that genome researchers or other parties who use certain names must abide by Excel's dating and number conventions; there's no way to record a gene like SEP15 without the date change.
+Additionally, Excel is not a high-functioning program, as we saw with the NHS lost data. Larger organizations should use databases that are compatible with programming languages.
+The problem is that Excel is so familiar, and people think they can use it in very complex ways since they learned how to do their jobs on it. From these videos, it's clear that the reality is complicated.
