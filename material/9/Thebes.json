@@ -1,0 +1,1119 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.317355,
+                    38.319236
+                ]
+            },
+            "type": "Feature",
+            "id": "darmc-location-24220",
+            "properties": {
+                "snippet": "Unknown; 750 BC - AD 640",
+                "link": "https://pleiades.stoa.org/places/541138/darmc-location-24220",
+                "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+                "location_precision": "precise",
+                "title": "DARMC location 24220"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.317799,
+                    38.319076
+                ]
+            },
+            "type": "Feature",
+            "id": "dare-location",
+            "properties": {
+                "snippet": "Settlement; 750 BC - AD 640",
+                "link": "https://pleiades.stoa.org/places/541138/dare-location",
+                "description": "Representative point location, site precision",
+                "location_precision": "precise",
+                "title": "DARE Location"
+            }
+        }
+    ],
+    "contributors": [
+        {
+            "username": "bkiesling",
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": "jahlfeldt",
+            "homepage": null,
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        },
+        {
+            "username": null,
+            "name": "DARMC"
+        },
+        {
+            "username": null,
+            "name": "G. Reger"
+        },
+        {
+            "username": "mgierhart",
+            "homepage": null,
+            "name": "Maija Gierhart",
+            "uri": "https://pleiades.stoa.org/author/mgierhart"
+        },
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": null,
+            "name": "jfu"
+        }
+    ],
+    "locations": [
+        {
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "DARMC, R. Talbert, T. Elliott, S. Gillies"
+                }
+            ],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://darmc.harvard.edu/",
+                    "citationDetail": "24220",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsDataSource",
+                    "shortTitle": "DARMC",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+                    "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 24220.",
+                    "otherIdentifier": " ",
+                    "type": "http://purl.org/spar/cito/citesAsDataSource"
+                }
+            ],
+            "id": "darmc-location-24220",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
+            "end": 640,
+            "title": "DARMC location 24220",
+            "provenance": "DARMC OBJECTID: 24220",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -750,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/unknown"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "DARMC OBJECTID: 24220",
+            "review_state": "published",
+            "accuracy_value": null,
+            "accuracy": null,
+            "featureType": [
+                "unknown"
+            ],
+            "description": "5M scale representative point location digitized from the Barrington Atlas of the Greek and Roman World by the Digital Atlas of Roman and Medieval Civilizations project at Harvard University.",
+            "created": "2011-03-10T02:00:45Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.317355,
+                    38.319236
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/541138/darmc-location-24220",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "J. Fossey"
+                },
+                {
+                    "username": null,
+                    "name": "J. Morin"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T06:10:39Z"
+                }
+            ]
+        },
+        {
+            "contributors": [],
+            "associationCertainty": "certain",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://francia.ahlfeldt.se/imperium.php",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "Johan Åhlfeldt, Digital Atlas of the Roman Empire, 2012.",
+                    "otherIdentifier": " ",
+                    "type": "http://purl.org/spar/cito/cites"
+                }
+            ],
+            "id": "dare-location",
+            "featureTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "end": 640,
+            "title": "DARE Location",
+            "provenance": "Digital Atlas of the Roman Empire (2012-10-15)",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -750,
+            "locationTypeURI": [
+                "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+            ],
+            "archaeologicalRemains": "unknown",
+            "details": "",
+            "review_state": "published",
+            "accuracy_value": 10.0,
+            "accuracy": "https://pleiades.stoa.org/features/metadata/dare-3",
+            "featureType": [
+                "settlement"
+            ],
+            "description": "Representative point location, site precision",
+            "created": "2012-10-20T20:58:04Z",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.317799,
+                    38.319076
+                ]
+            },
+            "locationType": [
+                "representative"
+            ],
+            "uri": "https://pleiades.stoa.org/places/541138/dare-location",
+            "creators": [
+                {
+                    "username": "jahlfeldt",
+                    "homepage": null,
+                    "name": "Johan Åhlfeldt",
+                    "uri": "https://pleiades.stoa.org/author/jahlfeldt"
+                }
+            ],
+            "@type": "Location",
+            "history": [
+                {
+                    "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+                    "modifiedBy": "sgillies",
+                    "modified": "2012-10-20T20:58:06Z"
+                }
+            ]
+        }
+    ],
+    "connections": [
+        {
+            "end": null,
+            "description": "",
+            "contributors": [],
+            "created": "2016-07-13T13:43:38Z",
+            "associationCertainty": "certain",
+            "title": "Boeotia",
+            "start": null,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/541138/540689",
+            "connectionType": "connection",
+            "id": "540689",
+            "attestations": [],
+            "history": [],
+            "connectsTo": "https://pleiades.stoa.org/places/540689",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "admin",
+                    "homepage": null,
+                    "name": "",
+                    "uri": "https://pleiades.stoa.org/author/admin"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/connection"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "http://openlibrary.org/works/OL8327792W",
+            "formattedCitation": "BAtlas 55 E4 Thebae",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "199-208",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Fossey 1988",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/SZAWKZV5",
+            "formattedCitation": "<div class=\"csl-entry\">Fossey, John M. <i>Topography and Population of Ancient Boiotia</i>. 1st ed. 2 in 1 vols. Chicago: Ares, 1988.</div>",
+            "otherIdentifier": "",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Ancient_Thebes_(Boeotia)",
+            "citationDetail": "Ancient Thebes (Boeotia)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Ancient Thebes (Boeotia).",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeAlso"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DT%3Aentry+group%3D3%3Aentry%3Dthebes-2",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "PECS (Perseus), THEBES Boiotia, Greece",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.trismegistos.org/place/2354",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "TM GEO ID 2354",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.encquran.brill.nl/entries/supplementum-epigraphicum-graecum/thebes-37-383-a37_383",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "SEG 37 383",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/seven-against-thebes-e1112170",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeAlso",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "New Pauly, Seven Against Thebes",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeAlso"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DT%3Aentry+group%3D7%3Aentry%3Dthebae-geo02",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Smith 1854 (Perseus), THEBAE",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.geonames.org/252910/thivai.html",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "GeoNames 252910",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.encquran.brill.nl/entries/brill-s-new-pauly/thebes-e1207080",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "New Pauly, Thebes [2]",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://darmc.harvard.edu/",
+            "citationDetail": "6310 and 10070",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "DARMC",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/9UD9W75C",
+            "formattedCitation": "Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds., The Digital Atlas of Roman and Medieval Civilizations (Cambridge (Massachusetts): Harvard University, 2007-), 6310.",
+            "otherIdentifier": "",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://topostext.org/place/383233PThe",
+            "citationDetail": "Thebes (Boeotia)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "ToposText",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:4.401-4.445",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Il. 4.406",
+            "otherIdentifier": "",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg001.perseus-grc1:9.374-9.416",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Il. 9.383",
+            "otherIdentifier": "",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Thebae",
+            "attestations": [
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0026:book=9:chapter=18&highlight=thebes",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "Liv. 9 18 (Perseus)",
+                    "otherIdentifier": " ",
+                    "type": "http://purl.org/spar/cito/cites"
+                }
+            ],
+            "id": "thebae",
+            "end": 300,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "G. Reger"
+                },
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": null,
+                    "name": "T. Elliott"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 55 E4 Thebae",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -330,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "la",
+            "created": "2010-11-23T00:44:02Z",
+            "uri": "https://pleiades.stoa.org/places/541138/thebae",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "J. Fossey"
+                },
+                {
+                    "username": null,
+                    "name": "J. Morin"
+                }
+            ],
+            "attested": "Thebae",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T06:10:39Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-02-06T17:46:53Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-02-06T17:46:11Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-02-03T22:01:32Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Thiva, Thíva",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://el.wikipedia.org/wiki/%CE%98%CE%AE%CE%B2%CE%B1",
+                    "citationDetail": "Θήβα",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "shortTitle": "Wikipedia (Greek)",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/BUR4V79V",
+                    "formattedCitation": "Βικιπαίδεια: την ελεύθερη εγκυκλοπαίδεια που γράφουμε συμμετοχικά (2001-), Θήβα.",
+                    "otherIdentifier": " ",
+                    "type": "http://purl.org/spar/cito/cites"
+                }
+            ],
+            "id": "thiva",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Barrington Atlas: BAtlas 55 E4 Thebae",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "el",
+            "created": "2012-02-03T21:47:10Z",
+            "uri": "https://pleiades.stoa.org/places/541138/thiva",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "attested": "Θήβα",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T06:10:39Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-02-06T17:48:15Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-02-03T21:47:12Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Thebes",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://en.wikipedia.org/wiki/Thebes,_Greece",
+                    "citationDetail": "Thebes, Greece",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "shortTitle": "Wikipedia (English)",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Thebes, Greece.",
+                    "otherIdentifier": " ",
+                    "type": "http://purl.org/spar/cito/cites"
+                }
+            ],
+            "id": "thebes",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Barrington Atlas: BAtlas 55 E4 Thebae",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2012-02-03T21:48:34Z",
+            "uri": "https://pleiades.stoa.org/places/541138/thebes",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "attested": "Thebes",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T06:10:40Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-02-06T17:47:29Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-02-03T21:48:36Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Thebai, Thēbai",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0051%3Abook%3D14%3Asection%3D1093a",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/cites",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "Aristot. Met. 14.1093a (Perseus)",
+                    "otherIdentifier": " ",
+                    "type": "http://purl.org/spar/cito/cites"
+                }
+            ],
+            "id": "thebai",
+            "end": 640,
+            "contributors": [],
+            "provenance": "Barrington Atlas: BAtlas 55 E4 Thebae",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -750,
+            "details": "",
+            "review_state": "published",
+            "description": "",
+            "transcriptionCompleteness": "complete",
+            "language": "grc",
+            "created": "2012-02-03T21:51:56Z",
+            "uri": "https://pleiades.stoa.org/places/541138/thebai",
+            "creators": [
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "attested": "Θῆβαι",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T06:10:40Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-02-06T17:49:00Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-02-03T21:53:30Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "thomase",
+                    "modified": "2012-02-03T21:51:58Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "te-qa-",
+            "attestations": [
+                {
+                    "timePeriod": "late-helladic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-helladic",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://www.academia.edu/963845/The_Geography_of_the_Mycenaean_Kingdoms",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Bennet 2011",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FUTQ4XH6",
+                    "formattedCitation": "<div class=\"csl-entry\">Bennet, John. “The Geography of the Mycenaean Kingdoms.” In <i>A Companion to Linear B: Mycenaean Greek Texts and Their World</i>, edited by Yves Duhoux and Anna Morpurgo Davies, 2:137–68. Louvain-La-Neuve; Walpole, MA: Peeters, 2011. https://www.academia.edu/963845/The_Geography_of_the_Mycenaean_Kingdoms.</div>",
+                    "otherIdentifier": "ISBN: 90-429-2403-9",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://digital.casalini.it/10.1400/133728",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Del Freo 2009",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HVF4FX8H",
+                    "formattedCitation": "<div class=\"csl-entry\">Del Freo, Maurizio. “The Geographical Names in the Linear B Texts from Thebes.” <i>Pasiphae</i>, no. 3 (2009): 41–67. https://doi.org/10.1400/133728.</div>",
+                    "otherIdentifier": "DOI: 10.1400/133728; ISSN: 2037-738X",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "p. 329",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Aura Jorro 1993",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CUA4WXDV",
+                    "formattedCitation": "<div class=\"csl-entry\">Aura Jorro, Francisco. <i>Diccionario Micénico</i>. Vol. 2. Diccionario Griego-Español 2. Madrid: Consejo Superior de Investigaciones Cientifícas, Instituto de Filología, 1993.</div>",
+                    "otherIdentifier": "ISBN: 84-00-07327-4",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "MY X 508.a​",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Melena and Olivier 1991",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/E559VIQS",
+                    "formattedCitation": "<div class=\"csl-entry\">Melena, José L., and Jean-Pierre Olivier. <i>TITHEMY: The Tablets and Nodules in Linear B from Tiryns, Thebes and Mycenae: A Revised Transliteration</i>. Suplementos a Minos 12. Salamanca: Ediciones Universidad de Salamanca, 1991.</div>",
+                    "otherIdentifier": "",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "TH Ft 140.1",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Aravantinos et al. 2001",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PDA7LMXP",
+                    "formattedCitation": "<div class=\"csl-entry\">Aravantinos, Vassilis L., Louis Godart, and Anna Sacconi. <i>Thèbes: Fouilles de La Cadmèe III: Corpus Des Documents d’archives En Linéaire B de Thèbes (1-433)</i>. Vol. 3. Thèbes: Fouilles de La Cadmèe. Pisa: Istituti editoriali e poligrafici internazionali, 2001.</div>",
+                    "otherIdentifier": "ISBN: 978-88-8147-301-4",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "TH Wu 51.β",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Aravantinos et al. 2001",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PDA7LMXP",
+                    "formattedCitation": "<div class=\"csl-entry\">Aravantinos, Vassilis L., Louis Godart, and Anna Sacconi. <i>Thèbes: Fouilles de La Cadmèe III: Corpus Des Documents d’archives En Linéaire B de Thèbes (1-433)</i>. Vol. 3. Thèbes: Fouilles de La Cadmèe. Pisa: Istituti editoriali e poligrafici internazionali, 2001.</div>",
+                    "otherIdentifier": "ISBN: 978-88-8147-301-4",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "TH Wu 65.β",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Aravantinos et al. 2001",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PDA7LMXP",
+                    "formattedCitation": "<div class=\"csl-entry\">Aravantinos, Vassilis L., Louis Godart, and Anna Sacconi. <i>Thèbes: Fouilles de La Cadmèe III: Corpus Des Documents d’archives En Linéaire B de Thèbes (1-433)</i>. Vol. 3. Thèbes: Fouilles de La Cadmèe. Pisa: Istituti editoriali e poligrafici internazionali, 2001.</div>",
+                    "otherIdentifier": "ISBN: 978-88-8147-301-4",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "",
+                    "citationDetail": "TH Wu 96.β",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Aravantinos et al. 2001",
+                    "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PDA7LMXP",
+                    "formattedCitation": "<div class=\"csl-entry\">Aravantinos, Vassilis L., Louis Godart, and Anna Sacconi. <i>Thèbes: Fouilles de La Cadmèe III: Corpus Des Documents d’archives En Linéaire B de Thèbes (1-433)</i>. Vol. 3. Thèbes: Fouilles de La Cadmèe. Pisa: Istituti editoriali e poligrafici internazionali, 2001.</div>",
+                    "otherIdentifier": "ISBN: 978-88-8147-301-4",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "id": "te-qa",
+            "end": -1200,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -1600,
+            "details": "",
+            "review_state": "published",
+            "description": "Toponym for Thebes attested in Linear B tablets.",
+            "transcriptionCompleteness": "complete",
+            "language": "grc-Linb",
+            "created": "2022-05-02T07:14:57Z",
+            "uri": "https://pleiades.stoa.org/places/541138/te-qa",
+            "creators": [
+                {
+                    "username": "mgierhart",
+                    "homepage": null,
+                    "name": "Maija Gierhart",
+                    "uri": "https://pleiades.stoa.org/author/mgierhart"
+                }
+            ],
+            "attested": "𐀳𐀣",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "mgierhart",
+                    "modified": "2022-05-08T07:31:02Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "mgierhart",
+                    "modified": "2022-05-08T06:41:57Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "mgierhart",
+                    "modified": "2022-05-04T23:54:33Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "mgierhart",
+                    "modified": "2022-05-04T05:13:41Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "mgierhart",
+                    "modified": "2022-05-04T05:12:14Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "mgierhart",
+                    "modified": "2022-05-02T07:14:59Z"
+                }
+            ]
+        }
+    ],
+    "id": "541138",
+    "subject": [
+        "dare:ancient=1",
+        "dare:major=1",
+        "dare:feature=major settlement"
+    ],
+    "title": "Thebai/Thebae",
+    "provenance": "Barrington Atlas: BAtlas 55 E4 Thebae",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
+    "details": "<p>The Barrington Atlas Directory notes: Thivai</p>",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "The ancient city of Thebes in Boeotia (modern Greece).",
+    "reprPoint": [
+        23.317577,
+        38.319156
+    ],
+    "placeTypes": [
+        "settlement"
+    ],
+    "bbox": [
+        23.317355,
+        38.319076,
+        23.317799,
+        38.319236
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/540689",
+        "https://pleiades.stoa.org/places/239936126"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2018-06-08T11:31:53Z",
+    "uri": "https://pleiades.stoa.org/places/541138",
+    "creators": [
+        {
+            "username": null,
+            "name": "J. Fossey"
+        },
+        {
+            "username": null,
+            "name": "J. Morin"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "added two Iliad references",
+            "modifiedBy": "jbecker",
+            "modified": "2020-06-22T21:16:28Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2019-04-07T02:58:18Z"
+        },
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modifiedBy": "admin",
+            "modified": "2018-06-08T11:31:59Z"
+        },
+        {
+            "comment": "darmc 6310",
+            "modifiedBy": "jbecker",
+            "modified": "2017-08-02T16:36:49Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2017-08-02T15:11:02Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2015-10-27T14:49:49Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2015-10-27T14:32:43Z"
+        },
+        {
+            "comment": "added connection",
+            "modifiedBy": "jbecker",
+            "modified": "2013-05-09T00:15:33Z"
+        },
+        {
+            "comment": "DARE feature tag fix.",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-23T19:35:40Z"
+        },
+        {
+            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-20T20:58:07Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T06:10:37Z"
+        },
+        {
+            "comment": "cleared up names and competing coordinates drawn from overlapping BAtlas maps",
+            "modifiedBy": "thomase",
+            "modified": "2012-02-06T17:51:06Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "thomase",
+            "modified": "2012-02-03T21:22:16Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-08-02T20:09:30Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-10T02:00:50Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-09T19:25:26Z"
+        },
+        {
+            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-14T20:18:57Z"
+        }
+    ]
+}
