@@ -1,0 +1,365 @@
+,Place2,attestations,ration
+1,Athens,199,0.74
+2,Aphrodisias,68,5.28
+3,Delphi,49,1.11
+4,Ephesos,46,1.07
+5,Pergamum,46,1.20
+6,Kos,40,1.12
+7,Magnesia ad Maeandrum,33,6.78
+8,Didyma,31,4.32
+9,Sparta,28,2.86
+10,Samos,26,1.36
+11,Panamara,24,5.52
+12,Teos,23,7.99
+13,Olbia,21,1.59
+14,Termessos,18,1.44
+15,Thera,18,1.62
+16,Miletos,18,0.95
+17,Eleusis,18,1.99
+18,Thyateira,18,4.86
+19,Perge,17,2.46
+20,Priene,17,0.69
+21,Mylasa,17,3.07
+22,Smyrna,16,1.52
+23,Kaunos,15,4.50
+24,Iasos,15,2.18
+25,Roma,15,0.48
+26,Prusias ad Hypium (Üskübü),14,8.43
+27,Xanthos,13,8.78
+28,Delos,13,0.40
+29,Sardeis,13,2.41
+30,Knidos,12,1.67
+31,Arykanda,12,3.80
+32,Stratonikeia,12,2.91
+33,Philadelphia,12,1.83
+34,Mytilene,12,1.56
+35,Epidauros,11,0.90
+36,Theadelphia (Batn Ihrīt),10,24.39
+37,Hierapolis (Pamukkale),10,2.25
+38,Ariassos,10,24.39
+39,Side,9,1.73
+40,Letoion,9,8.65
+41,Tralles,9,3.42
+42,Pantikapaion,8,0.74
+43,Tlos,8,7.69
+44,Telmessos,8,6.06
+45,Akmonia,8,3.03
+46,Labraunda,8,3.74
+47,Halikarnassos,8,3.19
+48,Hierokaisareia,8,8.33
+49,Thasos,8,1.06
+50,Argos,8,6.84
+51,Pogla (Çomaklı-Fığla),7,25.00
+52,Herakleia Salbake,7,6.93
+53,Attaleia (Antalya),7,3.98
+54,Apollonia,7,5.60
+55,Kolophon,7,2.30
+56,Nikaia,7,1.11
+57,Histria,7,0.38
+58,Selge (Altinkaya--Zerk),6,6.98
+59,Patara,6,5.83
+60,Arneai,6,21.43
+61,Ankyra,6,1.62
+62,Arkesine,6,2.59
+63,Olympia,6,0.49
+64,Chios,6,1.20
+65,Beroia,6,0.73
+66,Chersonesos,6,0.57
+67,Persepolis,5,29.41
+68,Amastris (Amasra),5,3.65
+69,Gorgippia,5,2.72
+70,Euhemeria (Qasr el-Banat),5,50.00
+71,Olympos,5,2.17
+72,Oinoanda (Incealiler),5,9.09
+73,Kadyanda,5,9.43
+74,Kibyra,5,0.88
+75,Apameia (Dinar),5,8.62
+76,Lagina,5,1.76
+77,Halasarna,5,2.51
+78,Aigiale,5,4.00
+79,Eretria,5,0.43
+80,Ioulia Gordos,5,4.90
+81,Daldis,5,4.59
+82,Thessalonike,5,0.38
+83,Odessus,5,1.03
+84,Elephantine Isl.,4,4.44
+85,Palaipaphos,4,1.59
+86,Apameia,4,4.12
+87,Killanion Pedion,4,6.78
+88,Attouda,4,8.51
+89,Saittai,4,1.21
+90,Fanum Apollinis,4,1.72
+91,Rhodos,4,0.14
+92,Thespiai,4,0.20
+93,Demetrias,4,0.59
+94,Akraiphia,4,1.57
+95,Magdola (Medinet el-Nihās),3,37.50
+96,Momemphis,3,42.86
+97,Alexandria?,3,0.16
+98,Anazarbos,3,0.40
+99,Rhodiapolis,3,10.71
+100,Kyaneai,3,13.04
+101,Idebessos,3,5.56
+102,"Boubon (Dikmen Tepe, S. of Ibecik)",3,7.69
+103,Balboura,3,11.11
+104,Laodicea Comb. (Lādik),3,1.89
+105,Eumeneia,3,1.46
+106,Dokimeion (Iscehisar),3,12.00
+107,Blaundos,3,4.62
+108,Aizanoi (Çavdarhisar),3,0.73
+109,Amyzon,3,3.80
+110,Axos,3,1.82
+111,Lindos,3,0.28
+112,Itanos,3,4.17
+113,Arkades,3,4.00
+114,Troizen,3,3.19
+115,Tegea,3,1.00
+116,Mantineia,3,1.49
+117,Hermione,3,4.41
+118,Maionia,3,2.61
+119,Erythrai,3,0.90
+120,Eresos,3,3.53
+121,Thermos,3,2.38
+122,Larisa,3,0.38
+123,Dodona,3,0.58
+124,Maroneia,3,1.23
+125,Iulia Concordia,3,18.75
+126,Tomis (Constanța),3,0.50
+127,Anchialos (Pomorie),3,15.79
+128,Ikaros,2,22.22
+129,Arsameia on the Euphrates,2,66.67
+130,Sinope,2,0.43
+131,Neoklaudiopolis ,2,2.74
+132,Phanagoria,2,3.23
+133,Hermonassa,2,2.22
+134,Tanais,2,1.36
+135,El Khārga Oasis,2,4.44
+136,Aphroditopolis,2,50.00
+137,Pachnamounis,2,25.00
+138,Leontopolis [Hel.],2,1.47
+139,Heroonpolis,2,40.00
+140,Bolbitine,2,40.00
+141,Athribis,2,9.52
+142,Salamis,2,0.46
+143,Kition,2,0.68
+144,Gerasa,2,0.51
+145,Samosata,2,25.00
+146,Kaystros,2,5.13
+147,Iotape (Aydap Iskelesi),2,11.11
+148,Teimioussa,2,11.11
+149,Sidyma,2,2.90
+150,Pinara,2,4.88
+151,Pednelissos (Kozan-Bodrumkaya),2,6.06
+152,Panemoteichos,2,22.22
+153,Lydai,2,7.41
+154,Kotenna (Menteşbey--Gödene),2,66.67
+155,Karmylessos,2,25.00
+156,Hephaistion,2,18.18
+157,Baris (Kiliç),2,5.71
+158,Sebastopolis (Sulusaray),2,4.76
+159,Komana--Hieropolis (Şar),2,1.08
+160,Temenothyrai (Uşak),2,2.90
+161,Synnada,2,1.87
+162,Silandos,2,2.86
+163,Prymnessos,2,8.70
+164,Pessinous,2,0.43
+165,Nakoleia (Seyit Gazi),2,1.34
+166,"Gölde, Area N. of",2,2.50
+167,Sinuri,2,2.06
+168,Minoa,2,1.05
+169,Olymos,2,1.92
+170,Herakleia Latmia,2,4.17
+171,Bargylia,2,4.26
+172,Anaphe,2,2.53
+173,Siphnos,2,4.88
+174,Lato,2,2.44
+175,Knossos,2,0.73
+176,Aptera,2,2.90
+177,Rhamnous,2,0.23
+178,Orchomenos,2,12.50
+179,Lykosoura,2,4.44
+180,Karystos,2,2.82
+181,Skepsis,2,10.53
+182,Magnesia on Sipylos (Manisa),2,1.65
+183,Apollonis,2,3.03
+184,Thebai,2,0.17
+185,Iolkos,2,18.18
+186,Koroneia,2,0.52
+187,Prusa ad Olympum (Bursa),2,0.62
+188,Nikomedeia (Izmit),2,0.88
+189,Kyzikos (Belkız),2,0.75
+190,Apollonia ad Rhynd. (Gölyazı),2,4.08
+191,Philippoi,2,1.47
+192,Amphipolis,2,0.55
+193,Abdera,2,2.08
+194,Mieza,2,4.44
+195,Kalindoia,2,4.76
+196,Messambria,2,0.73
+197,Dionysopolis,2,5.71
+198,Kallatis (Mangalia),2,0.35
+199,Apollonia,2,1.23
+200,Pharus,2,22.22
+201,Aï-Khanoum,1,1.27
+202,Uruk (Warka),1,4.17
+203,Ikaros Isl. (Failaka),1,11.11
+204,"Kermanshahan, nr.",1,50.00
+205,Laodicea in Media (Nahavand/Nehavend),1,33.33
+206,"Dura-Europos (Salhiyé, nr.)",1,0.11
+207,Amisos,1,1.64
+208,Amasia,1,1.49
+209,Kerch Peninsula,1,14.29
+210,Tyritake,1,3.33
+211,"Kaisareia, Hadrianopolis",1,0.97
+212,Amastris (Amasra),1,1.28
+213,"Klaudioupolis (Bolu), Plain of",1,0.55
+214,Talmis (Kalabsha),1,0.55
+215,Pachoras--Phthouris (Faras),1,0.76
+216,Philai Isl.,1,2.44
+217,Thebes (Luxor),1,0.43
+218,Arsinoe (Medinet el-Faiyūm),1,0.89
+219,Hibis (El Hibe),1,16.67
+220,Tanis (San),1,50.00
+221,Naukratis,1,0.09
+222,Hermoupolis Parva,1,16.67
+223,Tremithous (Tremetousia),1,7.69
+224,Ledra/Ledroi (Nicosia),1,20.00
+225,Tyros,1,2.17
+226,Skythopolis (Beth Shean),1,1.16
+227,Samaria--Sebaste,1,3.57
+228,"Nazareth? [Paris, Bibl. Nat.]",1,50.00
+229,Nemroud Dagh,1,2.70
+230,Hierapolis Kast. (Bodrum Kalesi),1,2.00
+231,Daphne,1,1.79
+232,MonAnt,1,5.88
+233,Aigeai,1,3.57
+234,Tarsos,1,2.70
+235,Pompeioupolis (Viranşehir),1,3.57
+236,Magarsos (Karataş),1,3.85
+237,Laertes (Cebelireş),1,4.76
+238,Tyriaion,1,1.92
+239,"Trysa (Gölbaşi, nr.)",1,11.11
+240,Myra (Kocademre): Sura,1,14.29
+241,Simena (Kale--Kekova),1,7.14
+242,"Verben (Yelten) &amp; Sibidunda (Zivint), betw.",1,6.67
+243,Sebastopolis,1,7.14
+244,Sagalassos (Ağlasun),1,0.67
+245,Myra (Kocademre): Muskar,1,50.00
+246,"Prostanna, nr. Eǧirdir",1,33.33
+247,Phaselis,1,2.56
+248,Verben? (Yelten),1,9.09
+249,Nisa,1,6.67
+250,Komba,1,4.00
+251,Kidrama,1,10.00
+252,Kandyba,1,20.00
+253,Kalabatia,1,14.29
+254,Etenna (Sirtköy),1,6.67
+255,Kremna (Çamlık-Girme)? [Burdur Mus.],1,1.16
+256,Komama (Serefönü),1,7.69
+257,Arymaxa,1,33.33
+258,Arsada,1,5.56
+259,Apollonia Salbake,1,5.00
+260,Aperlai,1,25.00
+261,Andeda (Yeşilkaya),1,7.69
+262,Amblada,1,2.94
+263,Adada,1,2.70
+264,Tymandos (Mandos Kiri): Yatzu Veran,1,1.79
+265,Sebaste (Selçikler): Sivasli,1,2.78
+266,Kollyda,1,0.91
+267,Kastolou Pedion,1,7.69
+268,Dorylaion (Eskişehir),1,0.42
+269,Appia,1,0.51
+270,Thyssanous (Ortaca),1,4.00
+271,Theangela,1,5.56
+272,Telos,1,0.88
+273,Paros,1,0.23
+274,Paros,1,0.83
+275,Nysa,1,1.30
+276,Keramos,1,1.18
+277,Delos,1,2.04
+278,Asklepieion,1,0.28
+279,Amorgos,1,4.00
+280,Alabanda,1,0.77
+281,Tenos,1,0.42
+282,Sybrita,1,2.94
+283,Polyrhenia,1,1.30
+284,Malla,1,6.67
+285,Kydonia,1,1.61
+286,Istron,1,14.29
+287,Hierapytna,1,0.97
+288,Gortyna,1,0.13
+289,Eleutherna,1,0.86
+290,Biannos,1,3.45
+291,Allaria,1,20.00
+292,Sounion,1,5.00
+293,Marathon,1,3.13
+294,Brauron,1,6.25
+295,Aigina [from Attica?],1,0.46
+296,Stymphalos,1,7.69
+297,Phlious,1,2.44
+298,Pherai,1,8.33
+299,Pellene,1,16.67
+300,Patras,1,0.26
+301,Asine,1,4.00
+302,Melos,1,0.50
+303,Megara,1,0.32
+304,Megalopolis,1,1.52
+305,Makiston (Skillountia-Mazi),1,50.00
+306,Asopos,1,0.60
+307,Kotyrta,1,14.29
+308,Korone,1,10.00
+309,Carthaea,1,1.03
+310,Kalamai,1,50.00
+311,Kainepolis,1,2.44
+312,Gerenia,1,20.00
+313,Aigosthena,1,2.63
+314,Tuzla,1,25.00
+315,Siklianoi,1,100.00
+316,Yenişehir,1,9.09
+317,Satala,1,6.67
+318,"Magn.Sip., Area N. of",1,50.00
+319,Klazomenai,1,2.86
+320,Zeytinbağı,1,3.85
+321,Kyme,1,1.00
+322,Charakipolis,1,4.35
+323,Assos,1,0.95
+324,Alexandria Troas,1,1.69
+325,Tithora,1,3.23
+326,Thetonion,1,33.33
+327,Thebai,1,0.59
+328,Stiris,1,3.70
+329,Lamia,1,25.00
+330,Opous,1,2.44
+331,Lamia,1,2.22
+332,Oracle of Apollo Koropaios,1,10.00
+333,Histiaia,1,1.45
+334,Elateia,1,1.11
+335,Chyretiai,1,1.18
+336,Kalchedon (Kadiköy),1,1.27
+337,Byzantion,1,0.16
+338,Kios (Gemlik) [Mag.Sip.],1,1.15
+339,Poimanenon,1,6.25
+340,Perinthos,1,0.34
+341,Şile,1,25.00
+342,Ainos (Enez),1,1.11
+343,Stoboi,1,0.83
+344,Prov. unkn. (Mid. Strymon R. Valley),1,11.11
+345,Olynthos,1,0.52
+346,Lete,1,7.69
+347,Audaristos,1,20.00
+348,Aigeai,1,0.97
+349,Scaptopara (Blagoevgrad),1,33.33
+350,Pautalia,1,1.27
+351,Epidamnos,1,0.16
+352,Tauromenion (Taormina),1,2.27
+353,"Phintias (Licata), area of",1,1.18
+354,Megara Hyblaia,1,5.26
+355,Centuripae,1,0.81
+356,Metapontion (Metaponto),1,0.77
+357,Neapolis (Napoli),1,0.29
+358,Amalfi,1,50.00
+359,Ravenna,1,3.33
+360,Arsinoe,1,0.41
+361,Crimea,1,33.33
+362,IGBulg V,1,0.42
+363,Augusta Traiana (Stara Zagora),1,0.86
+364,Nemausus (Nîmes),1,4.55
