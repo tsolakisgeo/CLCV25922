@@ -1,0 +1,4 @@
+<!DOCTYPE connections>
+<qgsARCGISFEATURESERVERConnections version="1.0">
+    <arcgisfeatureserver name="NatGeo_World_Map" authcfg="" password="" url="https://server.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/tile/%7Bz%7D/%7By%7D/%7Bx%7D" username=""/>
+</qgsARCGISFEATURESERVERConnections>
