@@ -1,0 +1,1090 @@
+{
+    "features": [],
+    "contributors": [
+        {
+            "username": "bkiesling",
+            "homepage": null,
+            "name": "Brady Kiesling",
+            "uri": "https://pleiades.stoa.org/author/bkiesling"
+        },
+        {
+            "username": "sgillies",
+            "homepage": null,
+            "name": "Sean Gillies",
+            "uri": "https://pleiades.stoa.org/author/sgillies"
+        },
+        {
+            "username": null,
+            "name": "Chelsea Lee"
+        },
+        {
+            "username": "jbecker",
+            "homepage": null,
+            "name": "Jeffrey Becker",
+            "uri": "https://pleiades.stoa.org/author/jbecker"
+        },
+        {
+            "username": "rbrowning",
+            "homepage": null,
+            "name": "Rachaelle L Browning",
+            "uri": "https://pleiades.stoa.org/author/rbrowning"
+        },
+        {
+            "username": null,
+            "name": "DARMC"
+        },
+        {
+            "username": null,
+            "name": "R. Talbert"
+        },
+        {
+            "username": "jahlfeldt",
+            "homepage": null,
+            "name": "Johan Åhlfeldt",
+            "uri": "https://pleiades.stoa.org/author/jahlfeldt"
+        },
+        {
+            "username": "alecpm",
+            "homepage": null,
+            "name": "Alec Mitchell",
+            "uri": "https://pleiades.stoa.org/author/alecpm"
+        },
+        {
+            "username": "arabinowitz",
+            "homepage": null,
+            "name": "Adam Rabinowitz",
+            "uri": "https://pleiades.stoa.org/author/arabinowitz"
+        },
+        {
+            "username": "thomase",
+            "homepage": null,
+            "name": "Tom Elliott",
+            "uri": "https://pleiades.stoa.org/author/thomase"
+        },
+        {
+            "username": "pmotylewicz",
+            "homepage": null,
+            "name": "Pierre Motylewicz",
+            "uri": "https://pleiades.stoa.org/author/pmotylewicz"
+        },
+        {
+            "username": null,
+            "name": "April Kissinger"
+        },
+        {
+            "username": null,
+            "name": "Eric Shea"
+        },
+        {
+            "username": "rmhorne",
+            "homepage": null,
+            "name": "Ryan Horne",
+            "uri": "https://pleiades.stoa.org/author/rmhorne"
+        },
+        {
+            "username": "swright",
+            "homepage": null,
+            "name": "Sterling Wright",
+            "uri": "https://pleiades.stoa.org/author/swright"
+        }
+    ],
+    "locations": [],
+    "connections": [
+        {
+            "end": -330,
+            "description": "",
+            "contributors": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "created": "2016-07-13T13:50:43Z",
+            "associationCertainty": "certain",
+            "title": "Attica",
+            "start": -750,
+            "provenance": "Pleiades",
+            "uri": "https://pleiades.stoa.org/places/579885/579888",
+            "connectionType": "capital",
+            "id": "579888",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "history": [
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "jbecker",
+                    "modified": "2020-08-12T23:05:29Z"
+                }
+            ],
+            "connectsTo": "https://pleiades.stoa.org/places/579888",
+            "details": "",
+            "references": [],
+            "review_state": "published",
+            "creators": [
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "@type": "Connection",
+            "connectionTypeURI": "https://pleiades.stoa.org/vocabularies/relationship-types/capital"
+        }
+    ],
+    "references": [
+        {
+            "alternateURI": "",
+            "accessURI": "http://openlibrary.org/works/OL8327792W",
+            "citationDetail": "59 B3 Athenae",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "BAtlas",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/MIAGQ5C6",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard J. A. <i>Barrington Atlas of the Greek and Roman World</i>. Princeton, N.J.: Princeton University Press, 2000. http://openlibrary.org/works/OL8327792W.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.worldcat.org/oclc/162915",
+            "citationDetail": "158-79",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Travlos 1971",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/F5Q2AW7H",
+            "formattedCitation": "<div class=\"csl-entry\">Travlos, Ioannes N. <i>Pictorial Dictionary of Ancient Athens</i>. New York: Praeger, 1971. http://www.worldcat.org/oclc/162915.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Thompson 1988",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/7IHBB8XT",
+            "formattedCitation": "<div class=\"csl-entry\">American School of Classical Studies at Athens, Homer A Thompson, Iōannēs N Traulos, and Alison Frantz. <i>The Athenian Agora: Results of Excavations</i>. Princeton: American School of Classical Studies at Athens, 1988.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://referenceworks.brillonline.com/entries/brill-s-new-pauly/athens-e205610",
+            "citationDetail": "Athens",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "New Pauly",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DUTS58MJ",
+            "formattedCitation": "<div class=\"csl-entry\">Hubert Cancik, Helmuth Schneider, Manfred Landfester, Christine F. Salazar, and Francis G. Gentry, eds. <i>Brill’s New Pauly: Encyclopaedia of the Ancient World.</i> Brill, 2015. http://referenceworks.brillonline.com/browse/brill-s-new-pauly.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://en.wikipedia.org/wiki/Athens",
+            "citationDetail": "Athens",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wikipedia (English)",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+            "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Athens.",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0006%3Aalphabetic+letter%3DA%3Aentry+group%3D10%3Aentry%3Dathens",
+            "citationDetail": "ATHENS Attica, Greece",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "PECS (Perseus)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/PV9N7BQD",
+            "formattedCitation": "<div class=\"csl-entry\">Stillwell, Richard, William L MacDonald, and Marian Holland McAllister, eds. <i>The Princeton Encyclopedia of Classical Sites</i>. Princeton, N.J.: Princeton University Press, 1976. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0006.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Athenian agora 24: Late antiquity, A.D. 267-700",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/WSN2UXPF",
+            "formattedCitation": "<div class=\"csl-entry\">Frantz, Alison, and American school of classical studies at Athens. <i>The Athenian Agora. XXIV, XXIV,</i>. The Athenian Agora: Results of Excavations 24. Princeton (N.J.): American School of Classical Studies at Athens, 1988.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0064%3Aalphabetic+letter%3DA%3Aentry+group%3D20%3Aentry%3Dathenae-geo03",
+            "citationDetail": "ATHÉNAE",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Smith 1854 (Perseus)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BIA378QC",
+            "formattedCitation": "<div class=\"csl-entry\">Smith, William. <i>Dictionary of Greek and Roman Geography</i>. London: Murray, 1854. http://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.04.0064.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.agathe.gr/",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Athenian Agora Excavations",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.geonames.org/264371/athens.html",
+            "citationDetail": "264371: Athens",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "GeoNames",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/IIFE4W6M",
+            "formattedCitation": "<div class=\"csl-entry\">Marc Wick, and Christophe Boutreux. “GeoNames,” 2005. http://www.geonames.org/.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.trismegistos.org/place/364",
+            "citationDetail": "GEO ID 364: Athenai",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TM",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/TN3GJAU8",
+            "formattedCitation": "<div class=\"csl-entry\">Depauw, Mark, Tom Gheldof, Herbert Verreth, Nico Dogaer, Willy Clarysse, Yanne Broux, Gert Baetens, and Heinz-Josef Thissen. <i>Trismegistos: An Interdisciplinary Portal of the Ancient World</i>. Leuven, 2006. http://www.trismegistos.org/.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://latin.packhum.org/loc/978/1/438/287-294",
+            "citationDetail": "6.215.5",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "Plin., NH (Mayhoff: PHI)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/8AK7HSRG",
+            "formattedCitation": "<div class=\"csl-entry\">Plinius Secundus Maior, C. <i>Naturalis Historiae</i>. Edited by Karl Friedrich Theodor Mayhoff. Bibliotheca Scriptorum Graecorum et Romanorum Teubneriana. Lipsiae: Teubner, 1906. http://latin.packhum.org/loc/978/1/0.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://darmc.harvard.edu/",
+            "citationDetail": "21246, 24574, 10073",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "DARMC",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/9UD9W75C",
+            "formattedCitation": "<div class=\"csl-entry\">Michael McCormick, Giovanni Zambotti, Leland Grigoli, and Kelly Gibson, eds. <i>The Digital Atlas of Roman and Medieval Civilizations</i>. Cambridge (Massachusetts): Harvard University, 2007. https://darmc.harvard.edu/.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://dare.ht.lu.se/",
+            "citationDetail": "10975",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "DARE",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/DJKMJPD7",
+            "formattedCitation": "<div class=\"csl-entry\">Åhlfeldt, Johan. <i>Digital Atlas of the Roman Empire</i>. Lund, Sweden: Department of Archaeology and Ancient History, Lund University, Sweden, 2015. http://dare.ht.lu.se/.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Camp 2001",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/Z53ZGZC2",
+            "formattedCitation": "<div class=\"csl-entry\">Camp, John McK. <i>The Archaeology of Athens</i>. New Haven: Yale University Press, 2001.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Camp, Daly, and Riccardi 2015",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/FEWAD5QX",
+            "formattedCitation": "<div class=\"csl-entry\">Camp, John McK, Kevin F Daly, and Lee Ann Riccardi. <i>Cities Called Athens: Studies Honoring John McK. Camp II</i>, 2015.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Wycherley 1992",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/GRV63K5C",
+            "formattedCitation": "<div class=\"csl-entry\">Wycherley, R. E. <i>Stones of Athens.</i> Princeton U.P. Wiley., 1992.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0012.tlg002.perseus-eng2:7.8",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Hom. Od. 7.80",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0006.tlg003.perseus-eng1:824-834",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "",
+            "bibliographicURI": "",
+            "formattedCitation": "Eur. Med. 829",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.perseus-eng1:8.44",
+            "citationDetail": "8.44",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "Hdt. (Godley: Perseus)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZXF7J4U2",
+            "formattedCitation": "<div class=\"csl-entry\">Herodotus. <i>Herodotus</i>. Edited by A. D Godley. 4 vols. Loeb Classical Library. London; New York: W. Heinemann; G.P. Putnam’s Sons, 1921. http://data.perseus.org/citations/urn:cts:greekLit:tlg0016.tlg001.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://www.cambridge.org/us/talbert/talbertdatabase/TPPlace1890.html",
+            "citationDetail": "7B1 (Talbert 1890)",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+            "shortTitle": "TP (Talbert: CUP)",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/QT8GLGGI",
+            "formattedCitation": "<div class=\"csl-entry\">Talbert, Richard. “Database: Peutinger Map Names and Features, with Commentary and User’s Guide.” In <i>Explore the Peutinger Map</i>. Cambridge UP, 2010. http://www.cambridge.org/us/talbert/talbertdatabase/prm.html.</div>",
+            "otherIdentifier": " ",
+            "type": "http://purl.org/spar/cito/citesAsEvidence"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://topostext.org/place/380237PAth",
+            "citationDetail": "Athens (Attica)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "ToposText",
+            "bibliographicURI": "https://www.zotero.org/groups/2533/items/MC9RGDVB",
+            "formattedCitation": "Kiesling, Brady. ToposText – a Reference Tool for Greek Civilization. Version 2.0. Aikaterini Laskaridis Foundation, 2016-.",
+            "otherIdentifier": "http://atlantides.org/bibliography/",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Dimitriadou 2019",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/43IUKZ9I",
+            "formattedCitation": "<div class=\"csl-entry\">Dimitriadou, Eirini M. <i>Early Athens: Settlements and Cemeteries in the Submycenaean, Geometric, and Archaic Periods</i>. Monumenta Archaeologica (Los Angeles, Calif.) 42. Los Angeles, Calif: UCLA Cotsen Institute of Archaeology Press, 2019.</div>",
+            "otherIdentifier": "",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://vici.org/vici/2124/",
+            "citationDetail": "2124: Athenae",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "vici.org",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/CQWHNDIM",
+            "formattedCitation": "<div class=\"csl-entry\">Voorburg, René. <i>Vici.Org: Archaeological Atlas of Antiquity</i>, 2012. https://vici.org/.</div>",
+            "otherIdentifier": "",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://www.wikidata.org/wiki/Q1524",
+            "citationDetail": "Q1524: Athens",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "Wikidata",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/BCQIKDKS",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Wikidata: The Free Knowledge Base That Anyone Can Edit</i>. Wikimedia Foundation, 2014. https://www.wikidata.org/.</div>",
+            "otherIdentifier": "",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://vocab.getty.edu/page/tgn/7001393",
+            "citationDetail": "7001393: Athens",
+            "citationTypeURI": "http://purl.org/spar/cito/citesAsRelated",
+            "shortTitle": "TGN",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/ZLJQ5AZJ",
+            "formattedCitation": "<div class=\"csl-entry\"><i>Getty Thesaurus of Geographic Names® Online</i>, n.d. https://www.getty.edu/research/tools/vocabularies/tgn/.</div>",
+            "otherIdentifier": "",
+            "type": "http://purl.org/spar/cito/citesAsRelated"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "http://arachne.uni-koeln.de/item/topographie/8002106",
+            "citationDetail": "8002106: Athen / Athens / Athenai / Athenae Athenae / Athēnai, Athen (Regionalbezirk)",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Arachne",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/HUWENJCW",
+            "formattedCitation": "<div class=\"csl-entry\">Reinhard Foertsch, ed. <i>Arachne: IDAI Objects</i>. Köln; Berlin: Archaeological Institute, University of Cologne; German Archaeological Institute. Accessed February 5, 2020. https://arachne.uni-koeln.de/.</div>",
+            "otherIdentifier": "",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        },
+        {
+            "alternateURI": "",
+            "accessURI": "https://mappingancientathens.org",
+            "citationDetail": "",
+            "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+            "shortTitle": "Mapping Ancient Athens",
+            "bibliographicURI": "https://www.zotero.org/groups/pleiades/items/RZHL94IY",
+            "formattedCitation": "<div class=\"csl-entry\">Leda Costaki, Vanda Papaefthymiou, Maria Pigaki, and Anna Maria Theocharaki. <i>Mapping Ancient Athens</i>. Athens: Dipylon: Society for the Study of Ancient Topography, 2022. https://mappingancientathens.org.</div>",
+            "otherIdentifier": "",
+            "type": "http://purl.org/spar/cito/seeFurther"
+        }
+    ],
+    "names": [
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Athenae",
+            "attestations": [
+                {
+                    "timePeriod": "archaic",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/archaic",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "hellenistic-republican",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/hellenistic-republican",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "roman",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/roman",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                },
+                {
+                    "timePeriod": "late-antique",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/late-antique",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://latin.packhum.org/loc/978/1/438/287-294#438",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "Plin. HN (Mayhoff: PHI) 6.215.5",
+                    "otherIdentifier": " ",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "id": "athenae",
+            "end": 640,
+            "contributors": [
+                {
+                    "username": null,
+                    "name": "R. Talbert"
+                },
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                },
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "provenance": "Barrington Atlas: BAtlas 59 B3 Athenae",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -750,
+            "details": "",
+            "review_state": "published",
+            "description": "Ancient Latin name of Athens.",
+            "transcriptionCompleteness": "complete",
+            "language": "la",
+            "created": "2016-06-11T21:05:19Z",
+            "uri": "https://pleiades.stoa.org/places/579885/athenae",
+            "creators": [
+                {
+                    "username": null,
+                    "name": "J.S. Traill"
+                }
+            ],
+            "attested": "Athenae",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "added language/script, attested form, Pliny reference",
+                    "modifiedBy": "thomase",
+                    "modified": "2016-06-11T21:07:10Z"
+                },
+                {
+                    "comment": "Baseline created",
+                    "modifiedBy": "thomase",
+                    "modified": "2016-06-11T21:05:15Z"
+                },
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T06:40:35Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Athens",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [],
+            "id": "athens",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Barrington Atlas: BAtlas 59 B3 Athenae",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "\r\n<p>See also <a class=\"external-link\" href=\"http://en.wikipedia.org/wiki/Athens\">http://en.wikipedia.org/wiki/Athens</a>.</p>\r\n",
+            "review_state": "published",
+            "description": "The modern, English appellation",
+            "transcriptionCompleteness": "complete",
+            "language": "en",
+            "created": "2011-01-11T18:04:55Z",
+            "uri": "https://pleiades.stoa.org/places/579885/athens",
+            "creators": [
+                {
+                    "username": "sgillies",
+                    "homepage": null,
+                    "name": "Sean Gillies",
+                    "uri": "https://pleiades.stoa.org/author/sgillies"
+                }
+            ],
+            "attested": "Athens",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Global migration and reindexing of citations and provenance, February 2012",
+                    "modifiedBy": "admin",
+                    "modified": "2012-02-15T06:40:36Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Athina, Athína",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://en.wikipedia.org/wiki/Athens",
+                    "citationDetail": "Athens",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Wikipedia (English)",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Athens.",
+                    "otherIdentifier": " ",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "id": "athina",
+            "end": 2100,
+            "contributors": [],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "Modern Greek placename",
+            "transcriptionCompleteness": "complete",
+            "language": "el",
+            "created": "2013-08-14T13:12:06Z",
+            "uri": "https://pleiades.stoa.org/places/579885/athina",
+            "creators": [
+                {
+                    "username": "arabinowitz",
+                    "homepage": null,
+                    "name": "Adam Rabinowitz",
+                    "uri": "https://pleiades.stoa.org/author/arabinowitz"
+                }
+            ],
+            "attested": "Αθήνα",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "arabinowitz",
+                    "modified": "2013-08-14T13:24:29Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "arabinowitz",
+                    "modified": "2013-08-14T13:12:38Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Athēnai, Athenai",
+            "attestations": [
+                {
+                    "timePeriod": "classical",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/classical",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://en.wikipedia.org/wiki/Athens",
+                    "citationDetail": "Athens",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "Wikipedia (English)",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/items/CI6F6W7W",
+                    "formattedCitation": "Wikipedia: the free encyclopedia that anyone can edit (2001-), Athens.",
+                    "otherIdentifier": " ",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://data.perseus.org/citations/urn:cts:greekLit:tlg0099.tlg001.perseus-grc1:8.6.14",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "Strabo (Meineke: Perseus) 8.6.14",
+                    "otherIdentifier": " ",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                }
+            ],
+            "id": "name.2015-09-02.2659017776",
+            "end": -330,
+            "contributors": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": -550,
+            "details": "",
+            "review_state": "published",
+            "description": "Ancient Greek name for Athens",
+            "transcriptionCompleteness": "complete",
+            "language": "grc",
+            "created": "2015-09-02T16:45:39Z",
+            "uri": "https://pleiades.stoa.org/places/579885/name.2015-09-02.2659017776",
+            "creators": [
+                {
+                    "username": "pmotylewicz",
+                    "homepage": null,
+                    "name": "Pierre Motylewicz",
+                    "uri": "https://pleiades.stoa.org/author/pmotylewicz"
+                }
+            ],
+            "attested": "Ἀθῆναι",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "Baseline created",
+                    "modifiedBy": "thomase",
+                    "modified": "2016-05-14T00:26:39Z"
+                },
+                {
+                    "comment": "added reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-09-04T21:07:48Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "pmotylewicz",
+                    "modified": "2015-09-02T17:05:39Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "pmotylewicz",
+                    "modified": "2015-09-02T16:46:13Z"
+                }
+            ]
+        },
+        {
+            "nameType": "geographic",
+            "transcriptionAccuracy": "accurate",
+            "associationCertainty": "certain",
+            "romanized": "Athen",
+            "attestations": [
+                {
+                    "timePeriod": "modern",
+                    "timePeriodURI": "https://pleiades.stoa.org/vocabularies/time-periods/modern",
+                    "confidence": "confident",
+                    "confidenceURI": "https://pleiades.stoa.org/vocabularies/attestation-confidence/confident"
+                }
+            ],
+            "references": [
+                {
+                    "alternateURI": "",
+                    "accessURI": "https://de.wikipedia.org/wiki/Athen",
+                    "citationDetail": "Athen",
+                    "citationTypeURI": "http://purl.org/spar/cito/citesAsEvidence",
+                    "shortTitle": "Wikipedia (German)",
+                    "bibliographicURI": "https://www.zotero.org/groups/2533/pleiades/items/itemKey/QVRBJVTM",
+                    "formattedCitation": "Wikipedia: Die freie Enzyklopädie (2001-), Athen.",
+                    "otherIdentifier": " ",
+                    "type": "http://purl.org/spar/cito/citesAsEvidence"
+                },
+                {
+                    "alternateURI": "",
+                    "accessURI": "http://www.geonames.org/264371/athens.html",
+                    "citationDetail": "",
+                    "citationTypeURI": "http://purl.org/spar/cito/seeFurther",
+                    "shortTitle": "",
+                    "bibliographicURI": "",
+                    "formattedCitation": "GeoNames 264371",
+                    "otherIdentifier": " ",
+                    "type": "http://purl.org/spar/cito/seeFurther"
+                }
+            ],
+            "id": "athen",
+            "end": 2100,
+            "contributors": [
+                {
+                    "username": "jbecker",
+                    "homepage": null,
+                    "name": "Jeffrey Becker",
+                    "uri": "https://pleiades.stoa.org/author/jbecker"
+                },
+                {
+                    "username": "thomase",
+                    "homepage": null,
+                    "name": "Tom Elliott",
+                    "uri": "https://pleiades.stoa.org/author/thomase"
+                }
+            ],
+            "provenance": "Pleiades",
+            "associationCertaintyURI": "https://pleiades.stoa.org/vocabularies/association-certainty/certain",
+            "start": 1700,
+            "details": "",
+            "review_state": "published",
+            "description": "Modern German name for Athens.",
+            "transcriptionCompleteness": "complete",
+            "language": "de",
+            "created": "2015-09-02T17:10:32Z",
+            "uri": "https://pleiades.stoa.org/places/579885/athen",
+            "creators": [
+                {
+                    "username": "pmotylewicz",
+                    "homepage": null,
+                    "name": "Pierre Motylewicz",
+                    "uri": "https://pleiades.stoa.org/author/pmotylewicz"
+                }
+            ],
+            "attested": "Athen",
+            "@type": "Name",
+            "history": [
+                {
+                    "comment": "add missing attested form",
+                    "modifiedBy": "thomase",
+                    "modified": "2016-06-11T21:08:01Z"
+                },
+                {
+                    "comment": "added reference",
+                    "modifiedBy": "jbecker",
+                    "modified": "2015-09-02T21:38:23Z"
+                },
+                {
+                    "comment": "Edited",
+                    "modifiedBy": "pmotylewicz",
+                    "modified": "2015-09-02T17:12:02Z"
+                },
+                {
+                    "comment": "Initial revision",
+                    "modifiedBy": "pmotylewicz",
+                    "modified": "2015-09-02T17:11:01Z"
+                }
+            ]
+        }
+    ],
+    "id": "579885",
+    "subject": [
+        "dare:ancient=1",
+        "dare:major=1",
+        "dare:feature=major settlement"
+    ],
+    "title": "Athenae",
+    "provenance": "Barrington Atlas: BAtlas 59 B3 Athenae",
+    "placeTypeURIs": [
+        "https://pleiades.stoa.org/vocabularies/place-types/settlement"
+    ],
+    "details": "<p>The Barrington Atlas Directory notes: Athina/Athens</p>",
+    "@context": {
+        "snippet": "dcterms:abstract",
+        "rights": "dcterms:rights",
+        "description": "dcterms:description",
+        "title": "dcterms:title",
+        "dcterms": "http://purl.org/dc/terms/",
+        "subject": "dcterms:subject",
+        "uri": "@id",
+        "created": "dcterms:created"
+    },
+    "review_state": "published",
+    "type": "FeatureCollection",
+    "description": "A major Greek city-state and the principal city of Attika. Modern Athens in Greece.",
+    "reprPoint": [
+        23.726268222011864,
+        37.972453602957316
+    ],
+    "placeTypes": [
+        "settlement"
+    ],
+    "bbox": [
+        23.619913,
+        37.937222,
+        23.849968,
+        38.019497
+    ],
+    "connectsWith": [
+        "https://pleiades.stoa.org/places/579888",
+        "https://pleiades.stoa.org/places/585128",
+        "https://pleiades.stoa.org/places/728329644",
+        "https://pleiades.stoa.org/places/235795850",
+        "https://pleiades.stoa.org/places/580123",
+        "https://pleiades.stoa.org/places/813654446",
+        "https://pleiades.stoa.org/places/580062",
+        "https://pleiades.stoa.org/places/968858713",
+        "https://pleiades.stoa.org/places/935764097",
+        "https://pleiades.stoa.org/places/146086514",
+        "https://pleiades.stoa.org/places/97294452",
+        "https://pleiades.stoa.org/places/720198157",
+        "https://pleiades.stoa.org/places/954340915",
+        "https://pleiades.stoa.org/places/773761100",
+        "https://pleiades.stoa.org/places/491444298",
+        "https://pleiades.stoa.org/places/807514119",
+        "https://pleiades.stoa.org/places/649966334",
+        "https://pleiades.stoa.org/places/649966335",
+        "https://pleiades.stoa.org/places/168254096",
+        "https://pleiades.stoa.org/places/759679649",
+        "https://pleiades.stoa.org/places/659771158",
+        "https://pleiades.stoa.org/places/969121823",
+        "https://pleiades.stoa.org/places/585959",
+        "https://pleiades.stoa.org/places/992770796",
+        "https://pleiades.stoa.org/places/580051",
+        "https://pleiades.stoa.org/places/122572945",
+        "https://pleiades.stoa.org/places/468194251",
+        "https://pleiades.stoa.org/places/277534797",
+        "https://pleiades.stoa.org/places/310115518",
+        "https://pleiades.stoa.org/places/638356144",
+        "https://pleiades.stoa.org/places/558659669",
+        "https://pleiades.stoa.org/places/750203268",
+        "https://pleiades.stoa.org/places/650003009"
+    ],
+    "rights": "Copyright © The Contributors. Sharing and remixing permitted under terms of the Creative Commons Attribution 3.0 License (cc-by).",
+    "created": "2018-06-07T20:56:36Z",
+    "uri": "https://pleiades.stoa.org/places/579885",
+    "creators": [
+        {
+            "username": null,
+            "name": "J.S. Traill"
+        }
+    ],
+    "@type": "Place",
+    "history": [
+        {
+            "comment": "added reference: mapping ancient athens",
+            "modifiedBy": "thomase",
+            "modified": "2022-08-25T22:21:36Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2020-08-13T00:31:18Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "jbecker",
+            "modified": "2019-07-08T19:55:29Z"
+        },
+        {
+            "comment": "reference",
+            "modifiedBy": "jbecker",
+            "modified": "2019-07-08T19:42:27Z"
+        },
+        {
+            "comment": "references",
+            "modifiedBy": "jbecker",
+            "modified": "2018-08-09T13:20:19Z"
+        },
+        {
+            "comment": "add ToposText reference provided by bkiesling",
+            "modifiedBy": "admin",
+            "modified": "2018-06-07T20:56:43Z"
+        },
+        {
+            "comment": "Baseline created",
+            "modifiedBy": "admin",
+            "modified": "2018-06-07T20:56:33Z"
+        },
+        {
+            "comment": "added references",
+            "modifiedBy": "jbecker",
+            "modified": "2016-06-20T16:17:40Z"
+        },
+        {
+            "comment": "changed citation type to 'related' for other gazetteer references (instead of 'see further')",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-11T21:09:23Z"
+        },
+        {
+            "comment": "migrating DARE location to a reference",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-11T11:39:50Z"
+        },
+        {
+            "comment": "try again again to remove redundant attica connections",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-11T11:38:56Z"
+        },
+        {
+            "comment": "try again to remove redundant attica connection",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-11T11:37:09Z"
+        },
+        {
+            "comment": "added DARMC references in anticipation of retracting DARMC locations in favor of more accurate coordinates",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-11T11:34:24Z"
+        },
+        {
+            "comment": "description update for modern location",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-11T09:51:12Z"
+        },
+        {
+            "comment": "removing redundant connection",
+            "modifiedBy": "thomase",
+            "modified": "2016-06-11T08:53:08Z"
+        },
+        {
+            "comment": "Edited",
+            "modifiedBy": "alecpm",
+            "modified": "2016-05-28T16:57:38Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2015-09-02T21:41:45Z"
+        },
+        {
+            "comment": "added reference",
+            "modifiedBy": "jbecker",
+            "modified": "2015-08-01T02:24:11Z"
+        },
+        {
+            "comment": "edited description; added references",
+            "modifiedBy": "jbecker",
+            "modified": "2013-01-26T19:18:59Z"
+        },
+        {
+            "comment": "DARE feature tag fix.",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-23T19:39:21Z"
+        },
+        {
+            "comment": "Location updates and tags from Johan Ahlfeldt's (jahlfeldt) Digital Atlas of the Roman Empire in October 2012",
+            "modifiedBy": "sgillies",
+            "modified": "2012-10-20T21:53:45Z"
+        },
+        {
+            "comment": "Global migration and reindexing of citations and provenance, February 2012",
+            "modifiedBy": "admin",
+            "modified": "2012-02-15T06:40:34Z"
+        },
+        {
+            "comment": "Add pecs ref, fix provenance",
+            "modifiedBy": "sgillies",
+            "modified": "2012-02-13T17:48:27Z"
+        },
+        {
+            "comment": "Settled on the best BAtlas/DARMC-derived location.",
+            "modifiedBy": "thomase",
+            "modified": "2011-11-17T18:52:29Z"
+        },
+        {
+            "comment": "Add refs and better description",
+            "modifiedBy": "sgillies",
+            "modified": "2011-11-12T00:04:09Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-08-02T20:58:28Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-10T02:16:12Z"
+        },
+        {
+            "comment": "New locations, coordinates, and metadata from Harvard's DARMC project. See http://atlantides.org/trac/pleiades/wiki/PlaceUpgradesAndMigrations",
+            "modifiedBy": "sgillies",
+            "modified": "2011-03-10T00:29:29Z"
+        },
+        {
+            "comment": "Detail text updated from former modernLocation. See http://atlantides.org/trac/pleiades/wiki/PlaceDetailsUpgrade",
+            "modifiedBy": "sgillies",
+            "modified": "2011-01-14T20:30:12Z"
+        }
+    ]
+}
