@@ -1,0 +1,33 @@
+html {
+    font-size: 18px;
+    color: black
+}
+
+body {
+    font-size: 20px;
+    background-color: whitesmoke;
+    color: black;
+}
+
+
+h1 {
+    color: green;
+}
+
+a:visited {
+    color: blue;
+}
+
+.gradient-text {
+    background-image: linear-gradient(90deg, red, blue);
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    width: fit-content;
+
+
+}
+
+figcaption {
+    color: black;
+}
